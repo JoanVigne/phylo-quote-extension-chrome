@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: #f0f0f0;
+  color: #333;
+  min-width: 200px;
+  padding: 5px;
+  font-family: cursive;
+}
+
+main .idea {
+  text-align: center;
+  font-size: 18px;
+}
+main .author .name-photo {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+main .author .name {
+  text-decoration: underline;
+  text-align: end;
+}
+main .author img {
+  width: 50px;
+  height: auto;
+  padding: 5px;
+}

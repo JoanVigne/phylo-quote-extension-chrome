@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Phy-quotes",
+  "version": "1.0.0",
+  "description": "This extension will show you a random phylosophy quote every time you click on the extension icon.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Phy-quotes"
+  }
+}
